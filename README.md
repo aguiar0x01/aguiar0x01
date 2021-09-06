@@ -15,6 +15,10 @@
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farchive.org%2Fdownload%2Fgithub.com-dart-lang-sdk_-_2019-09-30_09-03-43%2Fcover.jpg&f=1&nofb=1" alt="Python" width="42" height="42">
   </a>
   
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1000%2F1*ilC2Aqp5sZd1wi0CopD1Hw.png&f=1&nofb=1" alt="Flutter" width="42" height="42">
+  </a>
+  
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" alt="Python" width="42" height="42">
   </a>
