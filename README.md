@@ -9,7 +9,7 @@
 
 <p>🎯 <samp>Estudante de Back-end, Front-end, Mobile e Banco de Dados.</p>
 <p>🧠 <samp>Acadêmico em Análise e Desenvolvimento de Sistemas pela UNINTER.</p>
-<p>💛 <samp>𝗚𝗼𝘀𝘁𝗼 𝗱𝗲 𝗖𝗼𝗾𝘂𝗶𝗻𝗵𝗮 𝗴𝗲𝗹𝗮𝗱𝗮 𝗲 𝗰𝗼́𝗱𝗶𝗴𝗼 𝗿𝗲𝗳𝗮𝘁𝗼𝗿𝗮𝗱𝗼.</p><br>
+<p>💛 <samp>Gosto de Coquinha gelada e código refatorado</p><br>
 
 
 ### Como me encontrar:
