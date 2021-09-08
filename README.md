@@ -5,7 +5,7 @@
   </p>
 </h3>
 
-![aguiar0x01](https://komarev.com/ghpvc/?username=aguiar0x01&label=Profile+Views&color=1B1B1B&style=flat)
+![aguiar0x01](https://komarev.com/ghpvc/?username=aguiar0x01&label=Profile+Views&color=002fae&style=flat)
 
 <p>🎯 <samp>Estudante de Back-end, Front-end, Mobile e Banco de Dados.</p>
 <p>🧠 <samp>Acadêmico em Análise e Desenvolvimento de Sistemas pela UNINTER.</p>
@@ -17,11 +17,11 @@
 <p align="left">
 
   <a href="mailto:aguiar0x01@protonmail.com" alt="Contato/E-mail">
-    <img src="https://img.shields.io/badge/-ProtonMail-1B1B1B?style=for-the-badge&logo=Protonmail&link=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2F10-brands-and-social-media%2Fprotonmail.png&f=1&nofb=1" />
+    <img src="https://img.shields.io/badge/-ProtonMail-002fae?style=for-the-badge&logo=Protonmail&link=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2F10-brands-and-social-media%2Fprotonmail.png&f=1&nofb=1" />
   </a>
   
   <a href="https://www.instagram.com/aguiar0x01/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-290447?style=for-the-badge&logo=Instagram&link=https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsavvynetworkmarketingwomen.com%2Fwp-content%2Fuploads%2F2016%2F09%2FInstagram-logo-150x150.png&f=1&nofb=1"/>
+  <img src="https://img.shields.io/badge/-Instagram-4f0889?style=for-the-badge&logo=Instagram&link=https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsavvynetworkmarketingwomen.com%2Fwp-content%2Fuploads%2F2016%2F09%2FInstagram-logo-150x150.png&f=1&nofb=1"/>
   </a>
   
 </p>
