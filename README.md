@@ -1,55 +1,46 @@
 <h1 align="center">— Oi, eu sou Carlos Aguiar! 👨‍💻</h1>
-<h3 align="center">Estudante de Desenvolvimento Full Stack</h3>
+<h3 align="center">
+  <p>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Femojipedia-us.s3.dualstack.us-west-1.amazonaws.com%2Fthumbs%2F160%2Ffacebook%2F158%2Fflag-for-brazil_1f1e7-1f1f7.png&f=1&nofb=1" width="20" height="20"> Estudante de Desenvolvimento Full Stack
+  </p>
+</h3>
 
-![aguiar0x01](https://komarev.com/ghpvc/?username=aguiar0x01&label=Profile+Views&color=blue&style=flat)
+![aguiar0x01](https://komarev.com/ghpvc/?username=aguiar0x01&label=Profile+Views&color=1B1B1B&style=flat)
 
-- 🎯 Sou estudante de Desenvolvimento Back-end, Front-end, Mobile e Bancos de Dados.
-- 🧠 Atualmente, acadêmico em Análise e Desenvolvimento de Sistemas pela [UNINTER](https://pt.wikipedia.org/wiki/Centro_Universit%C3%A1rio_Internacional).
-- 💡 Geralmente posto conteúdo sobre programação no Instagram: [@PRO.COD3R](https://www.instagram.com/pro.cod3r/).
+🎯 𝗘𝘀𝘁𝘂𝗱𝗮𝗻𝘁𝗲 𝗱𝗲 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱, 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, 𝗠𝗼𝗯𝗶𝗹𝗲 𝗲 𝗕𝗮𝗻𝗰𝗼𝘀 𝗱𝗲 𝗗𝗮𝗱𝗼𝘀.<br>
+🧠 𝗔𝗰𝗮𝗱𝗲̂𝗺𝗶𝗰𝗼 𝗲𝗺 𝗔𝗻𝗮́𝗹𝗶𝘀𝗲 𝗲 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗱𝗲 𝗦𝗶𝘀𝘁𝗲𝗺𝗮𝘀 𝗽𝗲𝗹𝗮 [UNINTER](https://pt.wikipedia.org/wiki/Centro_Universit%C3%A1rio_Internacional).<br><br>
+💛 𝗚𝗼𝘀𝘁𝗼 𝗱𝗲 𝗖𝗼𝗾𝘂𝗶𝗻𝗵𝗮 𝗴𝗲𝗹𝗮𝗱𝗮 𝗲 𝗰𝗼́𝗱𝗶𝗴𝗼 𝗿𝗲𝗳𝗮𝘁𝗼𝗿𝗮𝗱𝗼.<br><br>
 
-<h3>Linguagens e Tecnologias</h3>
 
-<p>
-  
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farchive.org%2Fdownload%2Fgithub.com-dart-lang-sdk_-_2019-09-30_09-03-43%2Fcover.jpg&f=1&nofb=1" alt="Python" width="42" height="42">
+### Como me encontrar:
+ 
+<p align="left">
+
+  <a href="mailto:aguiar0x01@protonmail.com" alt="Contato/E-mail">
+    <img src="https://img.shields.io/badge/-ProtonMail-1B1B1B?style=for-the-badge&logo=Protonmail&link=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2F10-brands-and-social-media%2Fprotonmail.png&f=1&nofb=1" />
   </a>
   
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1000%2F1*ilC2Aqp5sZd1wi0CopD1Hw.png&f=1&nofb=1" alt="Flutter" width="42" height="42">
+  <a href="https://www.instagram.com/aguiar0x01/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-290447?style=for-the-badge&logo=Instagram&link=https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsavvynetworkmarketingwomen.com%2Fwp-content%2Fuploads%2F2016%2F09%2FInstagram-logo-150x150.png&f=1&nofb=1"/>
   </a>
   
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" alt="Python" width="42" height="42">
+</p>
+
+<p align="center">
+  <a href="https://github.com/aguiar0x01/">
+    <img
+      align="center"
+         width="580"
+      src="https://github-readme-stats.vercel.app/api?username=aguiar0x01&locale=pt-br&hide_border=true&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues,prs,contribs&layout=compact&theme=dracula"
+    />
   </a>
-  
-  <a href="http://www.cplusplus.org/" target="_blank">
-    <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" alt="C/C++ Programming Language" width="42" height="42">
-  </a>
-  
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.flaticon.com%2Ficons%2Fpng%2F512%2F226%2F226777.png&f=1&nofb=1" alt="Java" width="42" height="42">
-  </a>
-  
-  
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" alt="HTML5" width="42" height="42">
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcoder.clothing%2Fimages%2Fstories%2Fvirtuemart%2Fproduct%2Fcss3-icon.png&f=1&nofb=1" alt="CSS3 - Cascading Style Sheets" width="45" height="45">
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42">
-  </a>
-  
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://icons.iconarchive.com/icons/tatice/operating-systems/64/Linux-icon.png" alt="SO Linux" width="42" height="42">
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Scm" width="42" height="42">
+
+  <a href="https://github.com/aguiar0x01/">
+    <img
+      align="center"
+         width="580"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguiar0x01&hide_border=true&locale=pt-br&hide=Rich%20Text%20Format,scheme,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&card_width=580&theme=dracula"
+    />
   </a>
   
 </p>
