@@ -31,7 +31,7 @@
     <img
       align="center"
          width="580"
-      src="https://github-readme-stats.vercel.app/api?username=aguiar0x01&locale=pt-br&hide_border=true&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues,prs,contribs&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=aguiar0x01&locale=pt-br&hide_border=true&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues,prs,contribs&layout=compact&theme=algolia"
     />
   </a>
 
@@ -39,7 +39,7 @@
     <img
       align="center"
          width="580"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguiar0x01&hide_border=true&locale=pt-br&hide=Rich%20Text%20Format,scheme,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&card_width=580&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguiar0x01&hide_border=true&locale=pt-br&hide=Rich%20Text%20Format,scheme,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&card_width=580&theme=algolia"
     />
   </a>
   
